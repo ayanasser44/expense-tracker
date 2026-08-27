@@ -97,7 +97,9 @@ Thank you for using Expense Tracker, Aya!
 ---
 
 ## 📬 Connect with Me
-https://github.com/ayanasser44/expense-tracker.git
+ GitHub: https://github.com/ayanasser44/expense-tracker.git
+ 
+LinkedIn: 
 https://www.linkedin.com/in/aya-nasser-b1768b430?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
 **Created with ❤️ by Aya Abdalnasser Abu Hashem**
