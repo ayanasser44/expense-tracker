@@ -40,7 +40,7 @@ Built as a practical project to apply Python fundamentals and create a real-worl
 ========================================
    WELCOME TO EXPENSE TRACKER
 ========================================
-What is your name? Aya
+What is your name? user
 
 Hello Aya! Let's start tracking your expenses.
 
@@ -61,7 +61,7 @@ Enter your monthly budget: $30
 ========================================
             FINAL EXPENSE REPORT
 ========================================
-User: Aya
+User: user
 Number of expenses: 2
 ----------------------------------------
 1. Coffee                 $5.00
