@@ -42,7 +42,7 @@ Built as a practical project to apply Python fundamentals and create a real-worl
 ========================================
 What is your name? user
 
-Hello Aya! Let's start tracking your expenses.
+Hello User! Let's start tracking your expenses.
 
 Enter expense name (or 'done'): Coffee
 Enter amount in USD: $5
@@ -73,9 +73,10 @@ Number of expenses: 2
 ✅ Congratulations! You are within your budget.
    Remaining balance: $5.00
 ========================================
-Thank you for using Expense Tracker, Aya!
+Thank you for using Expense Tracker, User!
 ```
-
+[Expense Tracker Demo]!
+(expense_tracker_demo.jpg)
 ---
 
 ## 🏆 What I Learned
